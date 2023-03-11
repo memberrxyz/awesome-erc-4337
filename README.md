@@ -38,6 +38,7 @@ A curated list of resources dedicated to ERC-4337.
 * [Pimlico](https://www.pimlico.io/)
 * [Fluvi](https://fluviwallet.xyz/)
 * [Argent](https://www.argent.xyz/)
+* [ZeroDev](https://zerodev.app/)
 
 ## Projects
 
