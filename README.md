@@ -17,7 +17,14 @@ A curated list of resources dedicated to ERC-4337.
 * [Ehereum Foundation 🛠 Account abstraction: building an ERC-4337 wallet - Yoav Weiss, Dror Tirosh](https://www.youtube.com/watch?v=xHWlJiL_iZA)
 * [Ambire Presentation: Achieving Account Abstraction Today](https://www.youtube.com/watch?v=5v9KfNVu2ZI)
 
-## Twitter Threads
+## Twitter
+
+### Accounts
+
+* [erc4337](https://twitter.com/erc4337)
+* [4337Mafia](https://twitter.com/4337Mafia)
+
+### Threads
 
 * [@blockomotive](https://twitter.com/blockomotive/status/1631996549214482432)
 * [@macro_diary](https://twitter.com/macro_diary/status/1633522729788792855)
@@ -29,7 +36,12 @@ A curated list of resources dedicated to ERC-4337.
 * [Biconomy](https://www.biconomy.io/)
 * [Stackup](https://www.stackup.sh/)
 * [Pimlico](https://www.pimlico.io/)
+* [Fluvi](https://fluviwallet.xyz/)
 
 ## Projects
 
 * [Google authentication + ERC-4337 demo](https://github.com/JohnRising/example-login-erc4337)
+
+## Related
+
+* [eip1271](https://eip1271.io/)
