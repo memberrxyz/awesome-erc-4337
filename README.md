@@ -37,6 +37,7 @@ A curated list of resources dedicated to ERC-4337.
 * [Stackup](https://www.stackup.sh/)
 * [Pimlico](https://www.pimlico.io/)
 * [Fluvi](https://fluviwallet.xyz/)
+* [Argent](https://www.argent.xyz/)
 
 ## Projects
 
