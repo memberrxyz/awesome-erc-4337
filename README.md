@@ -4,6 +4,7 @@ A curated list of resources dedicated to ERC-4337.
 
 * [EIP-4337: Account Abstraction](https://eips.ethereum.org/EIPS/eip-4337)
 * [Vitalik Buterin - ERC 4337: Account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+* [Bundler Spec](https://github.com/eth-infinitism/bundler-spec)
 
 ## Articles
 
@@ -43,6 +44,10 @@ A curated list of resources dedicated to ERC-4337.
 ## Projects
 
 * [Google authentication + ERC-4337 demo](https://github.com/JohnRising/example-login-erc4337)
+
+## Bundlers
+
+* [stackup-bundler](https://github.com/stackup-wallet/stackup-bundler)
 
 ## Related
 
