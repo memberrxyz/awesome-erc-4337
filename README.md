@@ -40,6 +40,7 @@ A curated list of resources dedicated to ERC-4337.
 * [Fluvi](https://fluviwallet.xyz/)
 * [Argent](https://www.argent.xyz/)
 * [ZeroDev](https://zerodev.app/)
+* [Soul Wallet](https://www.soulwallet.io/)
 
 ## Projects
 
