@@ -49,7 +49,8 @@ A curated list of resources dedicated to ERC-4337.
 
 ## Bundlers
 
-* [stackup-bundler](https://github.com/stackup-wallet/stackup-bundler)
+* [stackup bundler](https://github.com/stackup-wallet/stackup-bundler)
+* [eth-infinitism bundler](https://github.com/eth-infinitism/bundler)
 
 ## Related
 
