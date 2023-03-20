@@ -42,6 +42,7 @@ A curated list of resources dedicated to ERC-4337.
 * [Argent](https://www.argent.xyz/)
 * [ZeroDev](https://zerodev.app/)
 * [Soul Wallet](https://www.soulwallet.io/)
+* [Ambire](https://www.ambire.com/)
 
 ## Projects
 
