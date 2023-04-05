@@ -32,6 +32,7 @@ A curated list of resources dedicated to ERC-4337.
 * [@macro_diary](https://twitter.com/macro_diary/status/1633522729788792855)
 * [@biconomy](https://twitter.com/biconomy/status/1632678779511504896)
 * [@0xSimon](https://twitter.com/0xSimon/status/1632818823895171072)
+* [@johnrising_ - State of the ERC-4337 ecosystem - Apr. 2023](https://twitter.com/johnrising_/status/1643510536703803394?s=46&t=SLTWr9_bZZXxH8RWMuD8VQ)
 
 ## Companies
 
