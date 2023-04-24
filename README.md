@@ -60,7 +60,11 @@ A curated list of resources dedicated to ERC-4337.
 ## Explorer
 
 * [blocknative 4337 explorer](https://4337.blocknative.com/)
-* 
+
+## Libraries
+
+* [userop.js](https://github.com/stackup-wallet/userop.js)
+
 ## Related
 
 * [eip1271](https://eip1271.io/)
