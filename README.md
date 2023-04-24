@@ -13,6 +13,7 @@ A curated list of resources dedicated to ERC-4337.
 * [EIP-4337 – Ethereum Account Abstraction Incremental Audit](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)
 * [Alchemy - Account Abstraction](https://www.alchemy.com/blog/account-abstraction)
 * [Blocknative - Introductory Guide to Account Abstraction (ERC-4337)](https://www.blocknative.com/blog/account-abstraction-erc-4337-guide)
+* [Blocknative - Understanding the 4337 MEV Supply Chain](https://www.blocknative.com/blog/understanding-4337-mev-supply-chain)
 
 ## YouTube
 
