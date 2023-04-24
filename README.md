@@ -12,6 +12,7 @@ A curated list of resources dedicated to ERC-4337.
 * [status.im - Account Abstraction (EIP-2938): Why & What](https://our.status.im/account-abstraction-eip-2938/)
 * [EIP-4337 – Ethereum Account Abstraction Incremental Audit](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)
 * [Alchemy - Account Abstraction](https://www.alchemy.com/blog/account-abstraction)
+* [Blocknative - Introductory Guide to Account Abstraction (ERC-4337)](https://www.blocknative.com/blog/account-abstraction-erc-4337-guide)
 
 ## YouTube
 
