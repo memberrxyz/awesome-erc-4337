@@ -3,6 +3,7 @@
 A curated list of resources dedicated to ERC-4337.
 
 * [EIP-4337: Account Abstraction](https://eips.ethereum.org/EIPS/eip-4337)
+* [Discussions](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160)
 * [Vitalik Buterin - ERC 4337: Account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 * [Bundler Spec](https://github.com/eth-infinitism/bundler-spec)
 
