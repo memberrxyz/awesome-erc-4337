@@ -36,6 +36,7 @@ A curated list of resources dedicated to ERC-4337.
 * [@biconomy](https://twitter.com/biconomy/status/1632678779511504896)
 * [@0xSimon](https://twitter.com/0xSimon/status/1632818823895171072)
 * [@johnrising_ - State of the ERC-4337 ecosystem - Apr. 2023](https://twitter.com/johnrising_/status/1643510536703803394?s=46&t=SLTWr9_bZZXxH8RWMuD8VQ)
+* [@jarrodwattsdev](https://twitter.com/jarrodwattsdev/status/1655782942436728832?s=46&t=SLTWr9_bZZXxH8RWMuD8VQ)
 
 ## Companies
 
@@ -51,6 +52,7 @@ A curated list of resources dedicated to ERC-4337.
 ## Projects
 
 * [Google authentication + ERC-4337 demo](https://github.com/JohnRising/example-login-erc4337)
+* [erc4337 wallet demo](https://nft-drop-with-smart-wallet.thirdweb-preview.com/)
 
 ## Bundlers
 
