@@ -9,6 +9,7 @@ A curated list of resources dedicated to ERC-4337.
 
 ## Articles
 
+* [visa on account abstraction](https://usa.visa.com/solutions/crypto/rethink-digital-transactions-with-account-abstraction.html)
 * [beincrypto - A Complete Guide To Account Abstraction](https://beincrypto.com/learn/erc-4337/)
 * [status.im - Account Abstraction (EIP-2938): Why & What](https://our.status.im/account-abstraction-eip-2938/)
 * [EIP-4337 – Ethereum Account Abstraction Incremental Audit](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit/)
