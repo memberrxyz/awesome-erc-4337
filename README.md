@@ -54,6 +54,7 @@ A curated list of resources dedicated to ERC-4337.
 
 * [Google authentication + ERC-4337 demo](https://github.com/JohnRising/example-login-erc4337)
 * [erc4337 wallet demo](https://nft-drop-with-smart-wallet.thirdweb-preview.com/)
+* [stackup erc-4337-examples](https://github.com/stackup-wallet/erc-4337-examples)
 
 ## Bundlers
 
